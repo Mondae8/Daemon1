@@ -1,14 +1,14 @@
-# Hello, I'm Daemon Keener  IT Specailist, IT Cloud Security, Network Engineer, Project Manager and Security Engineer
+# Hello, I'm Daemon Keener  IT Specialist, IT Cloud Security, Network Engineer, Project Manager, Security and Cloud Engineer
 <a href="https://linkedin.com/in/damon-keener-94461a335"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am pursuing a Cybersecurity Degree at Western Governors University (WGU) to gain comprehensive knowledge to advance my career through a competency-based education model, and earn valuable industry certifications 
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I aim to use my skills and knowledge to make a meaningful impact, preventing cybercrimes, and creating a resilient digital landscape..
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
