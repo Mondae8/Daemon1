@@ -11,7 +11,7 @@ I am pursuing a Cybersecurity Degree at Western Governors University (WGU) to ga
 I aim to use my skills and knowledge to make a meaningful impact, preventing cybercrimes, and creating a resilient digital landscape..
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
