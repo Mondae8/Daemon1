@@ -64,3 +64,4 @@ I aim to use my skills and knowledge to make a meaningful impact, preventing cyb
 ## Projects
 - Detection Lab
 - SOC Automation Project
+- Hackabox 
