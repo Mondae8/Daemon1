@@ -33,6 +33,7 @@ I aim to use my skills and knowledge to make a meaningful impact, preventing cyb
 </div>
 
 ### Cloud
+<div>
     <img src="https://img.shields.io/badge/Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white" />
 
 ### Endpoint
