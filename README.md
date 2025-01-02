@@ -1,5 +1,5 @@
 # Hello, I'm Daemon Keener  IT Specailist, IT Cloud Security, Network Engineer, Project Manager and Security Engineer
-<a href="https:www.linkedin.com/in/damon-keener-94461a335" /></a>
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
 
